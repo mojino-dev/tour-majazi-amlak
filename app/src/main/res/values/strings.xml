@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">تور مجازی املاک</string>
+    <string name="tagline">پلتفرم بازدید ۳۶۰ درجه و واقعیت مجازی املاک</string>
+    
+    <!-- User Roles -->
+    <string name="role_agent">مشاور املاک</string>
+    <string name="role_agent_desc">ثبت املاک، ساخت تور مجازی ۳۶۰ درجه، اشتراک ویژه و مدیریت بازدیدها</string>
+    <string name="role_user">کاربر عادی</string>
+    <string name="role_user_desc">بازدید مجازی املاک، اشتراک‌گذاری کد معرف و دریافت پورسانت نقدی</string>
+    
+    <!-- Auth -->
+    <string name="login_title">ورود به حساب کاربری</string>
+    <string name="mobile_input_hint">شماره موبایل (مثلا: ۰۹۱۲۳۴۵۶۷۸۹)</string>
+    <string name="send_otp">ارسال کد تایید</string>
+    <string name="verify_otp_title">کد تایید پیامک شده</string>
+    <string name="otp_input_hint">کد ۵ رقمی</string>
+    <string name="verify_and_enter">تایید و ورود</string>
+    
+    <!-- Dashboard Agent -->
+    <string name="agent_dashboard">داشبورد مشاور املاک</string>
+    <string name="btn_create_tour">ساخت تور جدید</string>
+    <string name="btn_my_properties">املاک من</string>
+    <string name="btn_my_subscription">اشتراک من</string>
+    <string name="btn_profile">پروفایل کاربری</string>
+    
+    <!-- Dashboard User -->
+    <string name="user_dashboard">داشبورد کاربر عادی</string>
+    <string name="referral_code_title">کد معرف شما</string>
+    <string name="commission_stats_title">آمار و درآمد پورسانت</string>
+    <string name="btn_share_referral">اشتراک‌گذاری کد معرف</string>
+    
+    <!-- New Tour Form -->
+    <string name="new_tour_title">ساخت تور مجازی ملک</string>
+    <string name="property_title_hint">عنوان آگهی (مثلا: پنت‌هاوس ۲۵۰ متری فرمانیه)</string>
+    <string name="property_type">نوع ملک</string>
+    <string name="transaction_type">نوع معامله</string>
+    <string name="property_price">قیمت (تومان)</string>
+    <string name="property_area">متراژ (متر مربع)</string>
+    <string name="property_rooms">تعداد اتاق</string>
+    <string name="property_address">آدرس و موقعیت</string>
+    <string name="property_desc">توضیحات تکمیلی</string>
+    <string name="btn_save_tour">ثبت و ایجاد تور ۳۶۰</string>
+    
+    <!-- Subscriptions -->
+    <string name="subscription_title">طرح‌های اشتراک مشاورین</string>
+    <string name="plan_1_month">پلن ۱ ماهه</string>
+    <string name="plan_2_month">پلن ۲ ماهه (محبوب)</string>
+    <string name="plan_3_month">پلن ۳ ماهه (به‌صرفه‌ترین)</string>
+</resources>
